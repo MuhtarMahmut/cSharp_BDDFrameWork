@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{00954F9B-B4DF-4406-8006-A6CCCF1F62DB}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.BDDFrameWork__Version01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BDDFrameWork_Version01/Utilities/TestBase.cs" Line="39" Column="42" />
+      <File FileName="BDDFrameWork_Version01/StepDefinitions/Hooks.cs" Line="17" Column="20" />
+      <File FileName="BDDFrameWork_Version01/Utilities/Driver.cs" Line="1" Column="14" />
+      <File FileName="BDDFrameWork_Version01/Utilities/EmptyClass.cs" Line="16" Column="1" />
+      <File FileName="BDDFrameWork_Version01/Utilities/ConfigurationReader.cs" Line="16" Column="1" />
+      <File FileName="BDDFrameWork_Version01/StepDefinitions/Facebook.cs" Line="45" Column="49" />
+      <File FileName="BDDFrameWork_Version01/Features/FacebookPage.feature" Line="13" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cucumber_WithMarufjon" expanded="True">
+            <Node name="BDDFrameWork_Version01" expanded="True" selected="True">
+              <Node name="Features" expanded="True" />
+              <Node name="StepDefinitions" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
